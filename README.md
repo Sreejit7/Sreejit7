@@ -2,7 +2,7 @@
 
 [![Website](https://img.shields.io/website?label=sreejit.dev&style=for-the-badge&url=https%3A%2F%2Fsreejit.dev)](https://sreejit.dev)
 [![Twitter Follow](https://img.shields.io/twitter/follow/Srjit7?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FSreejit7&screen_name=Srjit7)
-[![LinkedIn Connect](https://img.shields.io/badge/CONNECT-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sreejit-de/)
+[![LinkedIn Connect](https://img.shields.io/badge/CONNECT-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sreejit-de/)
 
 ## About Me:
 
@@ -47,7 +47,6 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
 
 </details>
 
@@ -55,6 +54,8 @@
   <summary>:zap: GitHub Stats</summary>
 
   <img align="left" alt="Sreejit7's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Sreejit7&show_icons=true&hide_border=true" />
+
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sreejit7)](https://github.com/anuraghazra/github-readme-stats)
 
 </details>
 
