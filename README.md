@@ -13,7 +13,7 @@
 
 ### Currently Listening to 🎧
 
-[<img src="https://novatorem-six-xi.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/0ofn3spikrpos360t0c9wtyio)
+[<img src="https://novatorem-six-xi.vercel.app/api/spotify-playing" alt="Sreejit De Spotify Playing" width="350" />](https://open.spotify.com/user/0ofn3spikrpos360t0c9wtyio)
 
 ### Let's connect:
 
