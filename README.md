@@ -2,13 +2,14 @@
 
 [![Website](https://img.shields.io/website?label=sreejit.dev&style=for-the-badge&url=https%3A%2F%2Fsreejit.dev)](https://sreejit.dev)
 [![Twitter Follow](https://img.shields.io/twitter/follow/Srjit7?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FSreejit7&screen_name=Srjit7)
+[![LinkedIn Connect](https://img.shields.io/badge/CONNECT-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sreejit-de/)
 
 ## About Me:
 
 -  Final year B.Tech Student in Computer Science & Engineering 
 -  I’m currently learning Full Stack Development
 -  Looking for my first full-time role as a Developer
--  I'm a avid ⚽ fan & Madridista <img width = "22px" alt = "Real Madrid" src = "http://123emoji.com/wp-content/uploads/2016/08/Real-Madrid-Official-Stickers-.F19703.png"/> !
+-  I'm a avid ⚽ fan & Madridista!
 
 ### Currently Listening to 🎧
 
@@ -37,7 +38,6 @@
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 
 <br />
-<br />
 
 ---
 
@@ -47,6 +47,7 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 </details>
 
