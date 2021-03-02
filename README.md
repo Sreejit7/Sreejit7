@@ -8,7 +8,7 @@
 -  Final year B.Tech Student in Computer Science & Engineering 
 -  I’m currently learning Full Stack Development
 -  Looking for my first full-time role as a Developer
--  I'm a avid ⚽ fan & Madridista <img align = "left" alt = "Real Madrid" src = "http://123emoji.com/wp-content/uploads/2016/08/Real-Madrid-Official-Stickers-.F19703.png"/> !
+-  I'm a avid ⚽ fan & Madridista <img width = "22px" alt = "Real Madrid" src = "http://123emoji.com/wp-content/uploads/2016/08/Real-Madrid-Official-Stickers-.F19703.png"/> !
 
 ### Currently Listening to 🎧
 
