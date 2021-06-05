@@ -41,14 +41,6 @@
 
 ---
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="Sreejit7's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Sreejit7&show_icons=true&hide_border=true" />
-
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sreejit7)](https://github.com/anuraghazra/github-readme-stats)
-
-</details>
 
 [website]: https://sreejit.dev
 [twitter]: https://twitter.com/Srjit7
