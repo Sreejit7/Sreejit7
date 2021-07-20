@@ -6,9 +6,9 @@
 
 ## About Me:
 
--  Final year B.Tech Student in Computer Science & Engineering 
--  I’m currently learning Full Stack Development
--  Looking for my first full-time role as a Developer
+-  Software Engineer passionate about building things on the web
+-  UI enthusiast,⚛️ lover
+-  Currently learning Next.js, TypeScript
 -  I'm a avid ⚽ fan & Madridista!
 
 <!-- ### Currently Listening to 🎧
