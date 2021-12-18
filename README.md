@@ -42,6 +42,6 @@
 ---
 
 
-[website]: https://sreejit.dev
+[website]: https://sreejit.vercel.app
 [twitter]: https://twitter.com/Srjit7
 [linkedin]: https://linkedin.com/in/sreejit-de/
