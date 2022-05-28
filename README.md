@@ -8,7 +8,7 @@
 
 -  Software Engineer passionate about building things on the web
 -  UI enthusiast,⚛️ lover
--  Currently learning Next.js, Angular
+-  Currently learning Next.js, GraphQL
 -  I'm a avid ⚽ fan & Madridista!
 
 <!-- ### Currently Listening to 🎧
