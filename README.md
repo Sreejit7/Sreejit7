@@ -9,7 +9,7 @@
 -  Software Engineer passionate about building things on the web
 -  UI enthusiast,⚛️ lover
 -  Currently learning Next.js, GraphQL
--  I'm a avid ⚽ fan & Madridista!
+-  I'm a avid sports fan, from Football to F1!
 
 <!-- ### Currently Listening to 🎧
 
