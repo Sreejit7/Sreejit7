@@ -1,7 +1,7 @@
 # Hi there, I'm Sreejit - Software Engineer 👋
 
 [![Website](https://img.shields.io/website?label=sreejit.dev&style=for-the-badge&url=https%3A%2F%2Fsreejit.dev)](https://www.sreejit.dev)
-[![Twitter Follow](https://img.shields.io/twitter/follow/sreejit_de?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FSreejit7&screen_name=Srjit7)
+[![Twitter Follow](https://img.shields.io/twitter/follow/sreejit_de?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FSreejit7&screen_name=sreejit_de)
 [![LinkedIn Connect](https://img.shields.io/badge/CONNECT-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sreejit-de/)
 
 ## About Me:
