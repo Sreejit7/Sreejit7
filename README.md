@@ -1,4 +1,4 @@
-# Hi there, I'm Sreejit - Software Engineer 👋
+# Hi there, I'm Sreejit 👋
 
 [![Website](https://img.shields.io/website?label=sreejit.dev&style=for-the-badge&url=https%3A%2F%2Fsreejit.dev)](https://www.sreejit.dev)
 [![Twitter Follow](https://img.shields.io/twitter/follow/sreejit_de?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FSreejit7&screen_name=sreejit_de)
@@ -6,10 +6,9 @@
 
 ## About Me:
 
--  Software Engineer passionate about building things on the web
--  UI enthusiast,⚛️ lover
--  Currently learning Next.js, GraphQL
--  I'm a avid sports fan, from Football to F1!
+-  Developer passionate about building things on the web
+-  Frontend enthusiast
+-  I'm an avid sports fan, from Football to F1!
 
 <!-- ### Currently Listening to 🎧
 
@@ -34,7 +33,6 @@
 <img align="left" alt="Next.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" />
 <img align="left" alt="Angular" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" />
 <img align="left" alt="Redux" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png" />
-<img align="left" alt="Firebase" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 
 
