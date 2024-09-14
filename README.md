@@ -6,8 +6,8 @@
 
 ## About Me
 
--  Developer passionate about building things on the web
--  Frontend enthusiast
+-  Developer passionate about building stuff. These days, I'm interested in building fast, scalable systems.
+-  Building frontend with React / Next.js and backend with Go and Postgres.
 -  I'm an avid sports fan, from Football to F1!
 
 <!-- ### Currently Listening to 🎧
